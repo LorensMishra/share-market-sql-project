@@ -169,8 +169,6 @@ share-market-sql-project/
 
 <img width="421" height="83" alt="Image" src="https://github.com/user-attachments/assets/06f0e2b0-afc1-40c4-a68a-c675addc868b" />
 
-
-
 # 🎯 Learning Outcomes
 
 * Strong understanding of relational database design
