@@ -125,7 +125,52 @@ share-market-sql-project/
 ├── README.md          # Project documentation
 └── docs/              # (Optional) ER diagrams or screenshots
 ```
+## .
 
+<img width="345" height="77" alt="Image" src="https://github.com/user-attachments/assets/bc05ecf1-cf70-40d8-bcc0-5c2ad55f36fd" />
+
+## .
+
+<img width="178" height="45" alt="Image" src="https://github.com/user-attachments/assets/cf19c7de-d45f-48bc-9cb8-d3e8df3bb93b" />
+
+## .
+
+<img width="223" height="71" alt="Image" src="https://github.com/user-attachments/assets/b75f4e0e-1c2e-4b00-b6f2-ef16e0ffd2ae" />
+
+## . 
+
+<img width="155" height="64" alt="Image" src="https://github.com/user-attachments/assets/263670e0-0258-47f8-8574-d43d4e71538d" />
+
+## .
+
+<img width="152" height="40" alt="6" src="https://github.com/user-attachments/assets/baa7495c-d7f2-484d-a7b1-c7c24e9d8aed" />
+
+## .
+
+<img width="409" height="110" alt="Image" src="https://github.com/user-attachments/assets/edf13a22-b499-4137-8a5d-ce237e394d08" />
+
+## .
+
+<img width="307" height="92" alt="Image" src="https://github.com/user-attachments/assets/0f253bfc-8177-4ff8-b91f-3f543fae7c02" />
+
+## .
+
+<img width="236" height="74" alt="Image" src="https://github.com/user-attachments/assets/df25091d-a717-48ab-92cf-ef4cd75dcf9c" />
+
+## .
+
+<img width="165" height="57" alt="Image" src="https://github.com/user-attachments/assets/dae7cc72-0f2a-4e46-a130-13387615dc75" />
+
+## .
+
+<img width="211" height="38" alt="Image" src="https://github.com/user-attachments/assets/3dd37e79-100d-4389-b5b4-36b890c8175d" />
+
+## .
+
+<img width="421" height="83" alt="Image" src="https://github.com/user-attachments/assets/06f0e2b0-afc1-40c4-a68a-c675addc868b" />
+
+
+```
 # 🎯 Learning Outcomes
 
 * Strong understanding of relational database design
