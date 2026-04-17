@@ -1,5 +1,7 @@
 # 📈 Share Market SQL Project
 
+<img width="1417" height="538" alt="image" src="https://github.com/user-attachments/assets/02c5e1e5-701c-4b90-aaf5-64b2b87fdea9" />
+
 A **Share Market Database Management System** built using **MySQL**, designed to simulate real-world stock trading, portfolio management, and transaction analysis.  
 This project demonstrates strong skills in **SQL database design, querying, and financial data analysis**.
 
