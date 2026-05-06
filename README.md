@@ -1,16 +1,13 @@
-# 📈 Share Market SQL Project
+#  Share Market SQL Project
 
 <img width="1417" height="538" alt="image" src="https://github.com/user-attachments/assets/02c5e1e5-701c-4b90-aaf5-64b2b87fdea9" />
 
 A **Share Market Database Management System** built using **MySQL**, designed to simulate real-world stock trading, portfolio management, and transaction analysis.  
 This project demonstrates strong skills in **SQL database design, querying, and financial data analysis**.
 
-🔗 **GitHub Repository:**  
-https://github.com/LorensMishra/share-market-sql-project
-
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project models a simplified **stock market system**, including:
 - Companies listed on the market
@@ -97,7 +94,7 @@ Simplifies daily transaction reporting with:
 
 ---
 
-## 🧪 Sample SQL Queries
+##  Sample SQL Queries
 
 ```sql
 -- Total portfolio value per trader
@@ -171,24 +168,25 @@ share-market-sql-project/
 
 <img width="421" height="83" alt="Image" src="https://github.com/user-attachments/assets/06f0e2b0-afc1-40c4-a68a-c675addc868b" />
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 * Strong understanding of relational database design
 * Hands-on experience with financial datasets
 * Advanced SQL querying and performance tuning
 * Practical exposure to portfolio and trading analytics
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 * Add TRIGGERS for automatic portfolio updates
 * Implement stored procedures
 * Add user authentication simulation
 * Integrate with Power BI / Tableau dashboards
 
-# 👨‍💻 Author
+#  Author
 
-**Lorens Mishra**
-🎓 **Junior Software Engineer** | MCA | SQL | Data Analytics | Python
+* **Lorens Mishra**
+* **Junior Software Engineer** 
+* MCA | SQL | Data Analytics | Python
 
 
 🔗 GitHub: [https://github.com/LorensMishra](https://github.com/LorensMishra)
